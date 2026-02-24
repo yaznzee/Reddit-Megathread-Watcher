@@ -106,7 +106,3 @@ Optional:
 
 - Keep `.env` private. It is ignored by `.gitignore`.
 - For very large threads, lower polling frequency to reduce API load.
-
-## License
-
-MIT (see `LICENSE`).
