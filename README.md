@@ -2,7 +2,7 @@
 
 Watch new comments in any Reddit megathread (or regular submission) from your terminal.
 
-This project was built as a workaround for situations where Reddit's UI does not make it easy to reliably follow the newest megathread comments.
+I built this as a workaround for situations where sorting by most recent is disabled for whatever reason. I originally used it to catch and claim an unused Sora AI early-access code in a megathread where sorting by newest wasn’t available when Sora first launched.
 
 ## Features
 
